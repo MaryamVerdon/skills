@@ -6,10 +6,10 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
+- les `structures` de base du langage ✔️
 - les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
-- les spécifités du mot-clef `this` ❌ / ✔️
+- l'utilisation de l'`asynchrone`  ✔️
+- les spécifités du mot-clef `this` ✔️
 
 ## 💻 Je code en Javascript
 
@@ -21,9 +21,18 @@
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+Projet permettant de voir les structures de bases du langage : [CookieClicker](https://github.com/MaryamVerdon/cookieClicker.git)
 
-Description :
+Description : 
+
+Ce jeu est un idle game consistant à cliquer sur un cookie le plus grand nombre de fois en 15 secondes. Permet de manipuler le DOM et les évenements en JS.
+
+Projet utilisant la POO & JS : [Yoga app](https://github.com/MaryamVerdon/Yoga.git)
+
+Descritpion : Cette application permet de créer sa propre routine d'étirement. Permet de comprendre la POO ainsi les spécifités du mot-clef `this`.
+
+Projet utilisant l'asynchrone : à venir...
+
 
 ### J'ai utilisé ce langage en production ❌ / ✔️
 
