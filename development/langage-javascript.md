@@ -39,8 +39,9 @@ Description :
 
 ### Titre
 
-- lien
-- description
+- [From Scratch - Développeur Front (React/JS)](https://www.youtube.com/@FromScratchDeveloppementWeb)
+- [Formation Mastering Frontend - From Scratch](https://fromscratch.podia.com/view/courses/parcours-complet-mastering-front-end/1265940-introduction/3870947-bande-annonce-mastering-Front-End)
+- Chaîne youtube d'un développeur Frontend regroupant des tutoriels/cours sur JavaScript et React, ainsi qu'une formation payante.
 
 ## 🚧 Je franchis les obstacles
 
